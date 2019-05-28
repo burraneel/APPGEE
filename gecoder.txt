@@ -1,0 +1,1 @@
+https://api.opencagedata.com/geocode/v1/json?q=17.4401+78.3489&key=660d1a6be640405aac9f5992f126d6dc
